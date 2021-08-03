@@ -37,7 +37,21 @@ maltego는 그래프로 만드는 데이터의 수,  멀티 디바이스, 등의
 
 만약 칼리 리눅스를 사용한다면 기본으로 설치되어있다. 
 
+# maltego에서 사용하는 용어
+- Entity : DNS, IP, 사람, 전화번호 등과 같이 그래프에서 노드로 표시되는 정보. Maltego 클라이언트에는 약 20개의 entity가 제동되며 사용자 지정 entity도 만들 수 있다. 
+
+- Transform : API 또는 데이터베이스를 쿼리하여 하나의 Entity를 다른 Entity로 변환하는 작업.
+
+- Machine : 여러 단계에 걸쳐 수행해야할 Transform 과정을 자동화하는 것으로 매크로로 분류한다. 
+
+- Hub Item : Hub Item을 통해 Maltego 사용자는 서버에서 Transform, Entity, Machine 등을 설치할 수 있다. 
 
 # tutorial 
 
  - [톰크루즈](https://mrrootable.tistory.com/109?category=709666)
+
+
+# Reference
+
+ - https://www.kisec.com/rsrh_rpt_det.do?id=143
+ - http://www.forensic-artifacts.com/osint-analysis/mal02
