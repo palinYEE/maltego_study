@@ -38,3 +38,6 @@ maltego는 그래프로 만드는 데이터의 수,  멀티 디바이스, 등의
 만약 칼리 리눅스를 사용한다면 기본으로 설치되어있다. 
 
 
+# tutorial 
+
+ - [톰크루즈](https://mrrootable.tistory.com/109?category=709666)
